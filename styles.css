@@ -56,6 +56,11 @@ span{
     object-fit: cover;
 }
 
+#postForm {
+ border: 1px solid black;
+ padding: 10px;
+ width: 300px;
+}
 /* #first {
     position: center;
     margin-left: 4px; */
